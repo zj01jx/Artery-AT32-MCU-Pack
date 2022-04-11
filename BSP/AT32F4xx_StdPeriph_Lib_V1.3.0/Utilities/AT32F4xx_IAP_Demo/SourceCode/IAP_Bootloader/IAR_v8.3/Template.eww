@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\Template.ewp</path>
+    </project>
+    <batchBuild>
+        <batchDefinition>
+            <name>all</name>
+            <member>
+                <project>Template</project>
+                <configuration>403_Project</configuration>
+            </member>
+            <member>
+                <project>Template</project>
+                <configuration>403A_Project</configuration>
+            </member>
+            <member>
+                <project>Template</project>
+                <configuration>407_Project</configuration>
+            </member>
+            <member>
+                <project>Template</project>
+                <configuration>413_Project</configuration>
+            </member>
+            <member>
+                <project>Template</project>
+                <configuration>415_Project</configuration>
+            </member>
+            <member>
+                <project>Template</project>
+                <configuration>421_Project</configuration>
+            </member>
+        </batchDefinition>
+    </batchBuild>
+</workspace>

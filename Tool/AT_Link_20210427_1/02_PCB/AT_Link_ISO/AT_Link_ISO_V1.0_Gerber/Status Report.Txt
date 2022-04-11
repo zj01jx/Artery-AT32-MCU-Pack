@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [AT-Link-ISO.PrjPCB]
+   Generated File[Pick Place for AT-Link-ISO_V1.0.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 14:43:36 On 2020/12/31

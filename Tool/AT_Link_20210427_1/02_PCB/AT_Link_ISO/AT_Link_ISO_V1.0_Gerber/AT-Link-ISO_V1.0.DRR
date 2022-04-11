@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: AT-Link-ISO_V1.0.PcbDoc   2020/12/31  14:42:43
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : AT-Link-ISO_V1.0-RoundHoles-Plated.TXT
+ASCII Plated SlotHoles File : AT-Link-ISO_V1.0-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             180       PTH        0.00inch (0.00mm)
+T2      20mil (0.5mm)                                             Round             11        PTH        0.00inch (0.00mm)
+T3      20mil (0.52mm)                                            Slot              2         PTH        0.00inch (0.00mm)
+T4      35mil (0.9mm)                                             Round             10        PTH        0.00inch (0.00mm)
+T5      39mil (1mm)                                               Round             4         PTH        0.00inch (0.00mm)
+T6      59mil (1.5mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T7      79mil (2mm)                                               Round             2         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              211
+
+Total Processing Time (hh:mm:ss) : 00:00:00

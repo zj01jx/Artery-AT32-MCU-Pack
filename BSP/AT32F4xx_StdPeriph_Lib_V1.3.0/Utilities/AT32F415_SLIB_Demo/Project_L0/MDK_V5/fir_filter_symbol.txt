@@ -1,0 +1,7 @@
+#<SYMDEFS># ARM Linker, 5060422: Last Updated: Fri Dec 18 14:05:17 2020
+
+0x0803a001 T FIR_lowpass_filter
+0x0803a051 T arm_fir_f32
+0x0803a7df T arm_fir_init_f32
+
+0x0803c000 D firCoeffs32

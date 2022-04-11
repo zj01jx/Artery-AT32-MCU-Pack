@@ -1,0 +1,40 @@
+
+T4468 000:337 SEGGER J-Link V6.44e Log File (0001ms, 0123ms total)
+T4468 000:337 DLL Compiled: Apr  5 2019 16:15:03 (0001ms, 0123ms total)
+T4468 000:337 Logging started @ 2020-07-31 19:36 (0001ms, 0123ms total)
+T4468 000:338 JLINK_SetWarnOutHandler(...) (0015ms, 0138ms total)
+T4468 000:353 JLINK_OpenEx(...)
+Firmware: J-Link ARM V8 compiled Nov 28 2014 13:44:46
+Hardware: V8.00
+S/N: 788529866
+Feature(s): RDI,FlashDL,FlashBP,JFlash,GDB
+TELNET listener socket opened on port 19021WEBSRV 
+Starting webserver (0016ms, 0154ms total)
+T4468 000:353 WEBSRV Webserver running on local port 19080 (0016ms, 0154ms total)
+T4468 000:353   returns O.K. (0016ms, 0154ms total)
+T4468 000:369 JLINK_SetErrorOutHandler(...) (0000ms, 0154ms total)
+T4468 000:369 JLINK_ExecCommand("ProjectFile = "D:\AT32F4xx_StdPeriph_Lib_V1.x.x\Utilities\AT32F415_SLIB_Demo\Project_L1\MDK_V5\JLinkSettings.ini"", ...). Ref file found at: C:\Keil_v5\ARM\Segger\JLinkDevices.ref (0070ms, 0224ms total)
+T4468 000:369 XML referenced by ref file: C:\Program Files (x86)\SEGGER\JLink_V644e\JLinkDevices.xml (0090ms, 0244ms total)
+T4468 000:369 C:\Program Files (x86)\SEGGER\JLink_V644e\JLinkDevices.xml evaluated successfully.Device "CORTEX-M4" selected.  returns 0x00 (1115ms, 1269ms total)
+T4468 001:484 JLINK_ExecCommand("Device = AT32F415RCT7", ...). Device "AT32F415RCT7" selected.  returns 0x00 (0049ms, 1318ms total)
+T4468 001:534 JLINK_ExecCommand("DisableConnectionTimeout", ...).   returns 0x01 (0000ms, 1318ms total)
+T4468 001:534 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 1318ms total)
+T4468 001:534 JLINK_GetDLLVersion()  returns 64405 (0000ms, 1318ms total)
+T4468 001:534 JLINK_GetFirmwareString(...) (0000ms, 1318ms total)
+T4468 001:534 JLINK_GetDLLVersion()  returns 64405 (0000ms, 1318ms total)
+T4468 001:534 JLINK_GetCompileDateTime() (0000ms, 1318ms total)
+T4468 001:534 JLINK_GetFirmwareString(...) (0000ms, 1318ms total)
+T4468 001:534 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 1318ms total)
+T4468 001:534 JLINK_TIF_Select(JLINKARM_TIF_SWD)  returns 0x00 (0001ms, 1319ms total)
+T4468 001:536 JLINK_SetSpeed(5000) (0003ms, 1323ms total)
+T4468 001:539 JLINK_SetResetType(JLINKARM_RESET_TYPE_NORMAL)  returns JLINKARM_RESET_TYPE_NORMAL (0000ms, 1323ms total)
+T4468 001:539 JLINK_Reset()ConfigTargetSettings() start J-Link Script File: Executing ConfigTargetSettings() [ConfigTargetSettings]ConfigTargetSettings() endInitTarget() start J-Link Script File: Executing InitTarget()  >0x0D TIF> >0x0D TIF>InitTarget() end >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF>
+ >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x0D TIF> >0x0D TIF> >0x0D TIF> >0x0D TIF> >0x0D TIF> >0x0D TIF> >0x0D TIF> >0x0D TIF> >0x0D TIF> >0x0D TIF>ConfigTargetSettings() start J-Link Script File: Executing ConfigTargetSettings() [ConfigTargetSettings]ConfigTargetSettings() endInitTarget() start J-Link Script File: Executing InitTarget()  >0x0D TIF> >0x0D TIF>InitTarget() end >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF>JLINK_GetId()ConfigTargetSettings() start
+ J-Link Script File: Executing ConfigTargetSettings() [ConfigTargetSettings]ConfigTargetSettings() endInitTarget() start J-Link Script File: Executing InitTarget()  >0x0D TIF> >0x0D TIF>InitTarget() end >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x0D TIF> >0x0D TIF> >0x0D TIF> >0x0D TIF> >0x0D TIF> >0x0D TIF> >0x0D TIF> >0x0D TIF> >0x0D TIF> >0x0D TIF>ConfigTargetSettings() start J-Link Script File: Executing ConfigTargetSettings() [ConfigTargetSettings]ConfigTargetSettings() endInitTarget() start
+ J-Link Script File: Executing InitTarget()  >0x0D TIF> >0x0D TIF>InitTarget() end >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF>  returns 0x00000000 (0269ms, 2411ms total)
+T4468 002:627 JLINK_GetId()ConfigTargetSettings() start J-Link Script File: Executing ConfigTargetSettings() [ConfigTargetSettings]ConfigTargetSettings() endInitTarget() start J-Link Script File: Executing InitTarget()  >0x0D TIF> >0x0D TIF>InitTarget() end >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x0D TIF> >0x0D TIF> >0x0D TIF> >0x0D TIF> >0x0D TIF> >0x0D TIF> >0x0D TIF> >0x0D TIF> >0x0D TIF> >0x0D TIF>ConfigTargetSettings() start J-Link Script File: Executing ConfigTargetSettings() 
+[ConfigTargetSettings]ConfigTargetSettings() endInitTarget() start J-Link Script File: Executing InitTarget()  >0x0D TIF> >0x0D TIF>InitTarget() end >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF>  returns 0x00000000 (0267ms, 2678ms total)
+T4468 002:899 JLINK_GetFirmwareString(...) (0000ms, 2678ms total)
+T4468 005:470 JLINK_Close() (0038ms, 2716ms total)
+T4468 005:470  (0038ms, 2716ms total)
+T4468 005:470 Closed (0038ms, 2716ms total)
